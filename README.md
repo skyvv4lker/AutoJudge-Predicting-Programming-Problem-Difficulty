@@ -144,21 +144,27 @@ AutoJudge/
 
 ## Limitations
 
+```
 1. The model relies only on textual information and does not account for algorithmic complexity or required implementation skills
 2. Some logically simple problems with long descriptions may receive moderate difficulty scores
 3. Classification accuracy is limited due to overlapping textual patterns across difficulty categories
+```
 
 ---
 
 ## Conclusion
 
+```
 The model serves as a baseline AutoJudge system that demonstrates how textual descriptions alone can be used to estimate programming problem difficulty. While performance is moderate, the system provides a solid foundation for comparison with more advanced models.
+```
 
 ---
 
 ## Author
 
+```
 Name: Ammy Sunil Meshram
 Enrollment : 22118009 (Fourth Year)
 Branch : Metallurgical & Materials Engineering
 College : Indian Institute of Technology, Roorkee
+```
