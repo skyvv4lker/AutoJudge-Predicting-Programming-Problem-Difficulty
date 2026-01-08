@@ -139,9 +139,8 @@ AutoJudge/
 ```
 
 ### Demo Video Link
-```
-(Add your demo video link here)
-```
+
+[Click here to watch the demo](https://drive.google.com/file/d/1JuISi_1ZJje_jfYrA80oa789yUKsujNh/view?usp=sharing)
 
 ---
 
