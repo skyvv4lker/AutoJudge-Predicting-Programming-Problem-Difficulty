@@ -131,8 +131,11 @@ AutoJudge/
 │   └── utils.py
 ├── templates/
 │   └── index.html
+├── requirements.txt
+├── report.pdf
+├── demo_video_link.txt
 ├── README.md
-└── report.pdf
+└── LICENSE
 ```
 
 ### Demo Video Link
