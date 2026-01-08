@@ -1,9 +1,9 @@
-# AutoJudge – Predicting Programming Problem Difficulty (Model Prime)
+# AutoJudge – Predicting Programming Problem Difficulty
 
 ## Project Overview
 Online coding platforms such as Codeforces, CodeChef, and Kattis classify programming problems into difficulty categories like Easy, Medium, and Hard, and often assign a numerical difficulty score. These labels are usually based on human judgment and user feedback.
 
-**Model Prime** is a baseline implementation of AutoJudge, an intelligent system that automatically predicts:
+This is a baseline implementation of AutoJudge, an intelligent system that automatically predicts:
 - Problem Difficulty Class (Easy / Medium / Hard)
 - Problem Difficulty Score (numerical value on a 0–10 scale)
 
