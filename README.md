@@ -73,7 +73,7 @@ Both models are trained independently using the same TF-IDF features.
 - Mean Absolute Error (MAE): Approximately 1.7
 - Root Mean Squared Error (RMSE): Approximately 2.0
 
-These results establish Model Prime as a baseline difficulty prediction system.
+These results establishes the model as a baseline difficulty prediction system.
 
 ---
 
@@ -152,13 +152,13 @@ AutoJudge/
 
 ## Conclusion
 
-Model Prime serves as a baseline AutoJudge system that demonstrates how textual descriptions alone can be used to estimate programming problem difficulty. While performance is moderate, the system provides a solid foundation for comparison with more advanced models.
+The model serves as a baseline AutoJudge system that demonstrates how textual descriptions alone can be used to estimate programming problem difficulty. While performance is moderate, the system provides a solid foundation for comparison with more advanced models.
 
 ---
 
 ## Author
 
 Name: Ammy Sunil Meshram
-Enrollment : 22118009
+Enrollment : 22118009 (Fourth Year)
 Branch : Metallurgical & Materials Engineering
-Institute : Indian Institute of Technology, Roorkee
+College : Indian Institute of Technology, Roorkee
